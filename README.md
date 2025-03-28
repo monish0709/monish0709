@@ -4,16 +4,10 @@ I pursue an undergraduate degree in Electronics and Communication, keenly intere
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Networking</b>
-  - <a href="https://github.com/monish0709/AIR-PORT-NETWORK-USING-CISCO-PACKET-TRACER.git">Design of Airport Network</a>
-  - <a href="https://github.com/monish0709/Smart-Office-Network-Using-IOT-Devices.git">Smart Office Network</a>
-- <b>Data Analysis</b>
-  - <a href="https://github.com/monish0709/ETL.git">ETL</a>
-  - <a href="https://github.com/monish0709/Data-Analysis-of-Walmart-Sales-Using-MySQL.git">Data Analysis of Walmart Sales</a>
-- <b>Excel</b>
-  - <a href="https://github.com/monish0709/EXCEL-PROJECT.git">Excel Project</a>
-
-
+- <b>Network Design and Configuration:</b>
+  - <a href="https://github.com/monish0709/Home-Network.git">Home Network</a>
+  - <a href="https://github.com/monish0709/Campus-Network.git">Campus Network</a>
+  - <a href="https://github.com/monish0709/Small-Branch-Office-Network.git">Small Branch Office Network</a>
 
 <h2> 🤳 Connect with me:</h2>
 
