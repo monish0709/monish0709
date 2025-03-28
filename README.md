@@ -1,6 +1,6 @@
-<h1>Hi, I'm Monish Kumar E <br/>Networking and Cybersecurity Enthusiast</h1>
+<h1>Hello, I'm Monish Kumar <br/>Networking and Cybersecurity Enthusiast</h1>
 
-I pursue an undergraduate degree in Electronics and Communication, keenly interested in networking. I am goal-driven, consistently eager to learn fresh things, committed to perpetual learning and professional evolution. I possess excellent communication abilities and enjoy meeting new people. I am a team player and can efficiently lead a team. I am passionate about discovering novel things and gaining experience in the field of network engineering. I currently seek opportunities to work with like-minded professionals and refine my abilities and expertise in this area.
+As an Electronics and Communication Engineering graduate and a Cisco Certified Network Associate, I bring a strong foundation to the world of networking and cybersecurity. I am an enthusiastic and self-motivated learner, constantly seeking opportunities to grasp new concepts, master essential tools, and gain a comprehensive understanding of network systems through dedicated reading, documentation, and hands-on research.
 
 <h2>👨‍💻 Projects:</h2>
 
